@@ -184,12 +184,3 @@ http://127.0.0.1:5000
 | `(x^2-1)/(x-1)` | `1` | Removable discontinuity, limit tends to `2` |
 | `sin(x)/x` | `0` | Classic fundamental limit, tends to `1` |
 | `1/x` | `0` | One-sided behaviors differ in sign; limit may be undefined/infinite behavior |
-
-## 12) Why This Project Is Strong
-
-- Clean modular architecture (web and math logic separated).
-- Strong user experience for both beginner and advanced users.
-- Educationally aligned output: symbolic + numerical intuition.
-- Ready for extension (more functions, graphing, API endpoints, assessments).
-
-If you are presenting this to a client, this project already demonstrates a practical, maintainable, and mathematically credible solution for learning-focused computation tools.
